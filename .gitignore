@@ -7,3 +7,14 @@ class stud
  void getdata();
  void putdata();
  }
+
+ void getdata();
+ {
+ cout<<"enter the name";
+ cout<<"enter the add";
+ }
+ void putdata();
+ {
+ cin>>name>>add;
+ }
+ 
