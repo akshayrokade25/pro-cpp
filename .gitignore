@@ -1,0 +1,9 @@
+#include<iostream.h>
+#include<conio.h>
+class stud
+{
+ char name,add;
+ int id;
+ void getdata();
+ void putdata();
+ }
